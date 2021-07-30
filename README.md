@@ -1,2 +1,2 @@
-# eda-projects
-EDA Projects or Exploratory Data Analysis Projects are specific projects in the Data Science field. This repository contains all of my EDA projects that I worked. All these projects are private projects.
+## Exploratory Data Analysis
+Exploratory data analysis is a critical process in the Data science field. We use this process to perform initial investigations on data and find patterns, anomalies, test hypothesis, and check assumptions with the help of summary statistics and graphical representations.
